@@ -1,0 +1,32 @@
+{
+  "name": "listadoproductos",
+  "version": "1.0.0",
+  "description": "Listado de productos",
+  "main": "index.js",
+  "dependencies": {
+    "knex": "^0.12.7",
+    "mysql": "^2.13.0",
+    "restify":"latest"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfloresuth/listadoproductos.git"
+  },
+  "keywords": [
+    "listado",
+    "knex",
+    "mysql"
+  ],
+  "author": "Gustavo Adolfo Flores González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfloresuth/listadoproductos/issues"
+  },
+  "homepage": "https://github.com/gfloresuth/listadoproductos#readme"
+}
